@@ -28,12 +28,11 @@ I build practical projects around embedded devices, home automation, Raspberry P
 - Small self-hosted setups on Raspberry Pi and Linux.
 - Practical documentation that turns working personal setups into repeatable guides.
 
-## GitHub Stats
+## GitHub Snapshot
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Niklaus1911&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Niklaus1911 GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niklaus1911&layout=compact&theme=transparent&hide_border=true" alt="Niklaus1911 top languages" />
-</p>
+![Public repos](https://img.shields.io/badge/Public%20repos-18-0969DA?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-10-0969DA?style=for-the-badge&logo=github)
+![Focus](https://img.shields.io/badge/Focus-Embedded%20%2B%20Home%20Automation-2EA44F?style=for-the-badge)
 
 ## Repo Themes
 
